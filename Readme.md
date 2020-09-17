@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [nurzhan kydyralieva](https://up.htmlacademy.ru/javascript/21/user/1339991).
-* Наставник: `Неизвестно`.
+- Студент: [nurzhan kydyralieva](https://up.htmlacademy.ru/javascript/21/user/1339991).
+- Наставник: [Саша Джинн](https://up.htmlacademy.ru/javascript/21/user/354189).
 
 ---
 
